@@ -9,7 +9,7 @@ export default function Home() {
     <>
       <Head>
         <title>Murtaza - React Developer</title>
-        <meta name="description" content="Ghulam Murtaza - Frontend React Web Dveloper" />
+        <meta name="description" content="Ghulam Murtaza - Frontend Web Developer" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
