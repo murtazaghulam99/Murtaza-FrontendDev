@@ -32,7 +32,7 @@ const SkillsSection = () => {
     },
     {
       name: "Accessibility",
-      experience: "4 Years Experience",
+      experience: "1 Years Experience",
       transition_delay: 0.4,
     },
     {
