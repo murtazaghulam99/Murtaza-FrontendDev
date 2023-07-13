@@ -37,6 +37,7 @@ const ContactSection = () => {
                 className="outline-none w-full lg:w-[445px] px-6 mb-8 pb-4 bg-transparent border-b-2 border-b-[#979797]"
                 type="text"
                 placeholder="NAME"
+                name='name'
                 required
               />
             </div>
@@ -44,6 +45,7 @@ const ContactSection = () => {
               <input
                 className="outline-none w-full lg:w-[445px] px-6 mb-8 pb-4 bg-transparent border-b-2 border-b-[#979797]"
                 type="email"
+                name='email'
                 placeholder="EMAIL"
                 required
               />
@@ -52,6 +54,7 @@ const ContactSection = () => {
               <textarea
                 className="outline-none w-full lg:w-[445px] px-6 mb-4 bg-transparent border-b-2 border-b-[#979797]"
                 rows={4}
+                name='message'
                 placeholder="MESSAGE"
                 required
               ></textarea>
