@@ -20,13 +20,18 @@ const ContactSection = () => {
               Contact
             </h1>
             <p className="text-base md:text-lg">
-              I would love to hear from you, about your project and how I could help.
-              Please fill in the form, and I&apos;ll get back to you as soon as
-              possible.
+              I would love to hear from you, about your project and how I could
+              help. Please fill in the form, and I&apos;ll get back to you as
+              soon as possible.
             </p>
           </div>
 
-          <form className="w-full lg:w-auto">
+          <form
+            action="https://getform.io/f/dc942c84-a9c4-47f4-8552-7883b391473f"
+            method="POST"
+            encType="multipart/form-data"
+            className="w-full lg:w-auto"
+          >
             <div>
               <input
                 className="outline-none w-full lg:w-[445px] px-6 mb-8 pb-4 bg-transparent border-b-2 border-b-[#979797]"
@@ -52,7 +57,7 @@ const ContactSection = () => {
               ></textarea>
             </div>
             <div className="flex justify-end">
-              <Button text="Contact Us" />
+              <Button text="Submit" />
             </div>
           </form>
         </div>
