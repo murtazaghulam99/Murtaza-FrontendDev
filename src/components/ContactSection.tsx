@@ -27,7 +27,7 @@ const ContactSection = () => {
           </div>
 
           <form
-            action="https://getform.io/f/dc942c84-a9c4-47f4-8552-7883b391473f"
+            action=""
             method="POST"
             encType="multipart/form-data"
             className="w-full lg:w-auto"
