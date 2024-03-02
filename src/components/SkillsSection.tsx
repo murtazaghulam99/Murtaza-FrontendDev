@@ -17,37 +17,37 @@ const SkillsSection = () => {
   const skills = [
     {
       name: "HTML",
-      experience: "2 Years Experience",
+      experience: "3 Years Experience",
       transition_delay: 0.1,
     },
     {
       name: "CSS",
-      experience: "2 Years Experience",
+      experience: "3 Years Experience",
       transition_delay: 0.2,
     },
     {
       name: "JavaScript",
-      experience: "1 Year Experience",
+      experience: "2 Years Experience",
       transition_delay: 0.3,
     },
     {
       name: "Accessibility",
-      experience: "1 Years Experience",
+      experience: "3 Years Experience",
       transition_delay: 0.4,
     },
     {
       name: "React",
-      experience: "6 Months Experience",
+      experience: "2 Years Experience",
       transition_delay: 0.5,
     },
     {
       name: "Next",
-      experience: "3 Months Experience",
+      experience: "1 Year Experience",
       transition_delay: 0.3,
     },
     {
       name: "Tailwind CSS",
-      experience: "3 Months Experience",
+      experience: "14 Months Experience",
       transition_delay: 0.6,
     },
     {
